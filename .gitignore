@@ -1,0 +1,11 @@
+# LaTeX workshop generated files #
+##################################
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.synctex
+*.synctex(busy)
+*.toc
+*.out
