@@ -36,7 +36,7 @@ display:none;
     --\\--compact-title-bar: true;
     --\\--compact-input-box: false;
     --\\--compact-context-menu: true;
-    --\\--compact-user-area: true;
+    --\\--compact-user-area: false;
     --\\--compact-channel-categories: false;
     --\\--compact-server-list: false;
 
