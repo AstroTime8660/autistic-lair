@@ -54,7 +54,7 @@ display:none;
     --\\--hide-gif-button: true;
     --\\--hide-sticker-button: true;
     --\\--hide-emoji-button: false;
-    --\\--hide-apps-button: true;
+    --\\--hide-apps-button: false;
     --\\--hide-gift-button: true;
     --\\--hide-help-button: false;
     --\\--hide-shop-button: true;
